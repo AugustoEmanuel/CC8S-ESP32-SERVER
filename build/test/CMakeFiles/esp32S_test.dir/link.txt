@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/esp32S_test.dir/link.d CMakeFiles/esp32S_test.dir/test_main.cc.o -o esp32S_test  /usr/lib/libdrogon.so.1.9.4 /usr/lib/libtrantor.so.1.5.18 /usr/lib/libjsoncpp.so -lyaml-cpp

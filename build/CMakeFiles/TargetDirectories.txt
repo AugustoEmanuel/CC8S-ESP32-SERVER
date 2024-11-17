@@ -1,6 +1,0 @@
-/home/augusto/Documents/ESP32_server/esp32S/build/CMakeFiles/esp32S.dir
-/home/augusto/Documents/ESP32_server/esp32S/build/CMakeFiles/edit_cache.dir
-/home/augusto/Documents/ESP32_server/esp32S/build/CMakeFiles/rebuild_cache.dir
-/home/augusto/Documents/ESP32_server/esp32S/build/test/CMakeFiles/esp32S_test.dir
-/home/augusto/Documents/ESP32_server/esp32S/build/test/CMakeFiles/edit_cache.dir
-/home/augusto/Documents/ESP32_server/esp32S/build/test/CMakeFiles/rebuild_cache.dir
